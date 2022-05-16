@@ -11,13 +11,13 @@ You can click the Preview link to take a look at your changes.
 ## 🌈 Skills
 
 <p align="left">
-<img src="https://github.com/mjiee/mjiee/blob/main/assets/linux.png" alt="linux" width="40" height="40"/>
-<img src="https://github.com/mjiee/mjiee/blob/main/assets/go.png" alt="go" width="40" height="40"/>
-<img src="https://github.com/mjiee/mjiee/blob/main/assets/rust.png" alt="rust" width="40" height="40"/>
-<img src="https://github.com/mjiee/mjiee/blob/main/assets/ts.png" alt="ts" width="40" height="40"/>
-<img src="https://github.com/mjiee/mjiee/blob/main/assets/react.png" alt="react" width="40" height="40"/>
-<img src="https://github.com/mjiee/mjiee/blob/main/assets/flutter.png" alt="flutter" width="40" height="40"/>
-<img src="https://github.com/mjiee/mjiee/blob/main/assets/mysql.png" alt="mysql" width="40" height="40"/>
+<img src="https://github.com/mjiee/mjiee/blob/master/assets/linux.png" alt="linux" width="40" height="40"/>
+<img src="https://github.com/mjiee/mjiee/blob/master/assets/go.png" alt="go" width="40" height="40"/>
+<img src="https://github.com/mjiee/mjiee/blob/master/assets/rust.png" alt="rust" width="40" height="40"/>
+<img src="https://github.com/mjiee/mjiee/blob/master/assets/ts.png" alt="ts" width="40" height="40"/>
+<img src="https://github.com/mjiee/mjiee/blob/master/assets/react.png" alt="react" width="40" height="40"/>
+<img src="https://github.com/mjiee/mjiee/blob/master/assets/flutter.png" alt="flutter" width="40" height="40"/>
+<img src="https://github.com/mjiee/mjiee/blob/master/assets/mysql.png" alt="mysql" width="40" height="40"/>
 </p>
 
 ## 📖 Ebooks
