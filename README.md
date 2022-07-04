@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 👋 Hi, I’m @mjiee
 - 🖥 I'm product developer and technical writer based in Hangzhou, China.
-- ✍️ I wrote dev articles on <a href="https://mjiee.top" target="_blank">My Blog</a>
+- ✍️ I wrote dev articles on <a href="https://blog.mjiee.top" target="_blank">My Blog</a>
 - 🧐 I'm Interested in cloud computing. Recent focus on kubernetes and mysql.
 
 ## 🌈 Skills
@@ -22,9 +22,9 @@ You can click the Preview link to take a look at your changes.
 
 ## 📖 Ebooks
 
-- 1️⃣  [《Linux学习笔记》](https://book.mjiee.top/linux/)
-- 2️⃣  [《Go学习笔记》](https://book.mjiee.top/go/)
-- 3️⃣  [《Rust学习笔记》](https://book.mjiee.top/rust/)
-- 4️⃣  [《Web前端笔记》](https://book.mjiee.top/frontend/)
+- 1️⃣  [《Go学习笔记》](https://book.mjiee.top/go/)
+- 2️⃣  [《Rust学习笔记》](https://book.mjiee.top/rust/)
+- 3️⃣  [《Web前端笔记》](https://book.mjiee.top/frontend/)
+- 4️⃣  [《Linux学习笔记》](https://book.mjiee.top/linux/)
 
 
