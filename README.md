@@ -29,6 +29,6 @@ You can click the Preview link to take a look at your changes.
 
 ## 💻 Project
 
-- [gr-gin](): 基于gind的web服务系统, 用于前后端分离的场景。
-- [gr-react](): 基于react 18的前端项目, 属于gr-gin的前端子系统。
+- [gr-gin](https://github.com/mjiee/gr-gin): 基于gind的web服务系统, 用于前后端分离的场景。
+- [gr-react](https://github.com/mjiee/gr-react): 基于react 18的前端项目, 属于gr-gin的前端子系统。
 
