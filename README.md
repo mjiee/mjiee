@@ -4,9 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 👋 Hi, I’m @mjiee
-- 🖥 I'm product developer and technical writer based in Hangzhou, China.
-- ✍️ I wrote dev articles on <a href="https://blog.mjiee.top" target="_blank">My Blog</a>
-- 🧐 I'm Interested in cloud computing. Recent focus on kubernetes and mysql.
+- 🖥 你好, 我是mjiee, 一位有2年工作经验的软件开发工程师.
+- ✍️ 我常在个人<a href="https://blog.mjiee.top" target="_blank">Blog</a>上写一些学习笔记.
+- 🧐 我对云原生比较感兴趣, 最近正在学习kubernetes. 
 
 ## 🌈 Skills
 
@@ -29,6 +29,6 @@ You can click the Preview link to take a look at your changes.
 
 ## 💻 Project
 
-- [gr-gin](https://github.com/mjiee/gr-gin): 基于gind的web服务系统, 用于前后端分离的场景。
-- [gr-react](https://github.com/mjiee/gr-react): 基于react 18的前端项目, 属于gr-gin的前端子系统。
+- [grf-gin](https://github.com/mjiee/grf-gin): 基于gin的web服务系统, 用于前后端分离的场景。
+- [grf-react](https://github.com/mjiee/grf-react): 基于react 18的前端项目, 属于grf-gin的前端子系统。
 
